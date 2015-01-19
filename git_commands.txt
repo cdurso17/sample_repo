@@ -1,0 +1,6 @@
+https://github.com/cdurso17/sample_repo.git
+
+git add . adds all new files
+git add -u udates tracking for files that changed names or were deleted
+git add -A does both at once
+git commit -m "message" commits to local repo
