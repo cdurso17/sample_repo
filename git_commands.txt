@@ -1,5 +1,17 @@
 https://github.com/cdurso17/sample_repo.git
 
+Create github repo initialized with a readme.
+clone the repo to your machine in git Bash using 
+git clone https://github.com/cdurso17/sample_repo.git
+	or whatever the https repo name is (available in clone window on
+						Github)
+This automatically sets up the repository in your working directory, 
+and sets up the origin remote. Check with 
+
+git remote -v
+
+https://github.com/cdurso17/sample_repo.git
+
 git add . adds all new files
 git add -u udates tracking for files that changed names or were deleted
 git add -A does both at once
